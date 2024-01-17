@@ -1,0 +1,3 @@
+Adafruit CircuitPython 8.2.9 on 2023-12-06; Adafruit Circuit Playground Bluefruit with nRF52840
+Board ID:circuitplayground_bluefruit
+UID:FE7B28FC68614AA9
